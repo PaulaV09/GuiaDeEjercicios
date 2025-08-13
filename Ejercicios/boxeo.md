@@ -15,3 +15,8 @@ El boxeo es un deporte de combate que combina técnica, fuerza, resistencia y ve
 3. Alterna entre rondas de 2-3 minutos de trabajo y 30-60 segundos de descanso.
 4. Incluye ejercicios de defensa (esquivas, bloqueos, desplazamientos) en la rutina.
 5. Finaliza con ejercicios de core y estiramientos para cuello, hombros y brazos.
+
+## Consejos
+- Usa vendas y guantes adecuados para proteger las manos.
+- Mantén siempre la guardia alta y el mentón protegido.
+- Trabaja la técnica antes de aumentar la potencia de los golpes.
