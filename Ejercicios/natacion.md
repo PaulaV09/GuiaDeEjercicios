@@ -8,3 +8,10 @@ La natación es un deporte acuático que involucra el movimiento coordinado de b
 - Fortalece todos los grupos musculares.
 - Incrementa la flexibilidad y coordinación.
 - Reduce el riesgo de lesiones por su bajo impacto.
+
+## Instrucciones
+1. Elige un estilo de natación según tu nivel (crol, braza, espalda o mariposa).
+2. Realiza un calentamiento fuera o dentro del agua con movimientos articulares y estiramientos dinámicos.
+3. Nada de forma continua o en intervalos durante 20-45 minutos, adaptando la intensidad a tu capacidad.
+4. Mantén una respiración rítmica y una técnica adecuada.
+5. Finaliza con 5 minutos de nado suave y estiramientos fuera del agua.
