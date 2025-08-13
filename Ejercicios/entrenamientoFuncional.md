@@ -20,3 +20,5 @@ El entrenamiento funcional es un tipo de ejercicio que trabaja movimientos natur
 - Mantén la técnica correcta para evitar lesiones.
 - Combina ejercicios de tracción, empuje, rotación y desplazamiento.
 - Ajusta la intensidad según tu nivel y aumenta progresivamente la dificultad.
+
+.
