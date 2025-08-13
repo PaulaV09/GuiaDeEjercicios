@@ -8,3 +8,10 @@ Los ejercicios de flexibilidad son actividades que ayudan a mejorar el rango de 
 - Reduce la rigidez muscular.
 - Disminuye el riesgo de lesiones.
 - Favorece la circulación y la recuperación muscular.
+
+## Instrucciones
+1. Realiza un calentamiento suave de 5 minutos para preparar los músculos.
+2. Elige estiramientos estáticos y dinámicos que trabajen todo el cuerpo (por ejemplo: estiramiento de isquiotibiales, apertura de cadera, torsión de columna).
+3. Mantén cada estiramiento estático de 15 a 30 segundos sin rebotes.
+4. Repite cada ejercicio 2-3 veces por lado o grupo muscular.
+5. Respira de forma profunda y relajada durante todo el estiramiento.
