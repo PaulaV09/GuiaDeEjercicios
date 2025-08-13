@@ -15,3 +15,8 @@ El entrenamiento funcional es un tipo de ejercicio que trabaja movimientos natur
 3. Haz 3-4 series de 10-15 repeticiones o intervalos de 30-60 segundos por ejercicio.
 4. Descansa entre 30 y 60 segundos entre ejercicios.
 5. Finaliza con estiramientos dinámicos y estáticos.
+
+## Consejos
+- Mantén la técnica correcta para evitar lesiones.
+- Combina ejercicios de tracción, empuje, rotación y desplazamiento.
+- Ajusta la intensidad según tu nivel y aumenta progresivamente la dificultad.
