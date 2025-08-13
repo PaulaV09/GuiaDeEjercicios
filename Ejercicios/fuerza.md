@@ -15,3 +15,8 @@ Los ejercicios de fuerza son actividades diseñadas para desarrollar y mantener 
 3. Haz 2-4 series de 8-12 repeticiones por ejercicio, descansando 60-90 segundos entre series.
 4. Mantén una técnica correcta durante todo el movimiento.
 5. Finaliza con estiramientos enfocados en los músculos trabajados.
+
+## Consejos
+- Empieza con cargas que puedas manejar con buena técnica.
+- Aumenta progresivamente el peso o la resistencia.
+- Respira de forma controlada: exhala al hacer el esfuerzo e inhala al volver a la posición inicial.
