@@ -15,3 +15,9 @@ El pilates es un método de entrenamiento que combina ejercicios de fuerza, cont
 3. Practica una rutina con ejercicios como el hundred, roll-up, single leg stretch, bridge y swan.
 4. Mantén un ritmo lento y controlado, coordinando cada movimiento con la respiración.
 5. Finaliza con estiramientos suaves para relajar la musculatura.
+
+
+## Consejos
+- Concéntrate en la calidad del movimiento más que en la cantidad.
+- Mantén el abdomen activado durante todo el ejercicio.
+- Ajusta la dificultad de los ejercicios según tu nivel.
