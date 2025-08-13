@@ -15,3 +15,8 @@ La natación es un deporte acuático que involucra el movimiento coordinado de b
 3. Nada de forma continua o en intervalos durante 20-45 minutos, adaptando la intensidad a tu capacidad.
 4. Mantén una respiración rítmica y una técnica adecuada.
 5. Finaliza con 5 minutos de nado suave y estiramientos fuera del agua.
+
+## Consejos
+- Usa gafas y gorro de natación para mayor comodidad.
+- Concéntrate en la técnica para evitar lesiones.
+- Alterna estilos para trabajar diferentes músculos.
