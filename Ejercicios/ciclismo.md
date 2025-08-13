@@ -15,3 +15,9 @@ El ciclismo es una actividad física que consiste en desplazarse en bicicleta, y
 3. Alterna periodos de pedaleo moderado e intenso durante 30-60 minutos según tu nivel.
 4. Mantén una cadencia constante y una respiración controlada.
 5. Termina con 5-10 minutos de pedaleo suave y estiramientos de piernas y espalda.
+
+
+## Consejos
+- Usa casco y equipo de seguridad si sales a exteriores.
+- Hidrátate antes, durante y después del ejercicio.
+- Mantén la espalda recta y el core activado para evitar lesiones.
